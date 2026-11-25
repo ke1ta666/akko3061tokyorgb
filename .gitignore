@@ -1,0 +1,15 @@
+# .NET / Visual Studio / Build outputs
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.tmp_appdata/
+
+# Runtime user-specific files
+last_error.log
+led_map.json
+_github_upload/
+*.zip
